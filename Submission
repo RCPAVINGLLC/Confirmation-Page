@@ -1,0 +1,22 @@
+https://github.com/RCPAVINGLLC/Confirmation-Page/tree/main<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Submission</title>
+</head>
+<style type="text/css">
+  h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+  }
+  h3 {
+    font-family: serif;
+    font-style: italic;
+  }
+</style>
+<body>
+  <h1 align="center">Submission Confirmed.</h1>
+  <h3 align="center">Thank you for your submission.</h3>
+</body>
+</html>
